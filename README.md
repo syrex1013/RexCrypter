@@ -1,6 +1,6 @@
 # RexCrypter[WORK IN PROGRESS] 
 Just a simple file crypter for your viruses,Rat,Trojans and other stuff :D  <br />
-Crypter will drop file.exe. This is crypted virus. Do not rename it. After clicking it decrypts itself and drops virus. <br />
+Crypter will drop file.exe. This is crypted virus. After clicking it decrypts itself and drops virus. <br />
 # TODO: <br />
 ~~1.Add custom filename.~~<br />  
 # DETECTION RATE <br />
