@@ -1,0 +1,7 @@
+C:\Users\remix3030303\source\repos\Crypter\Crypter\bin\Debug\REXCRY.exe.config
+C:\Users\remix3030303\source\repos\Crypter\Crypter\bin\Debug\REXCRY.exe
+C:\Users\remix3030303\source\repos\Crypter\Crypter\bin\Debug\REXCRY.pdb
+C:\Users\remix3030303\source\repos\Crypter\Crypter\obj\Debug\RexCRy.csproj.CoreCompileInputs.cache
+C:\Users\remix3030303\source\repos\Crypter\Crypter\obj\Debug\REXCRY.exe
+C:\Users\remix3030303\source\repos\Crypter\Crypter\obj\Debug\REXCRY.pdb
+C:\Users\remix3030303\source\repos\Crypter\Crypter\obj\Debug\RexCRy.csprojResolveAssemblyReference.cache
