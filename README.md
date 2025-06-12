@@ -10,3 +10,7 @@ LINK: https://NoDistribute.com/result/Khrd5MkG1Dstfy2VcXeiT9N <br />
 # INFO ABOUT SOURCE CODE <br />
 So I added source code so you can now see that it is not a virus. <br />
 It is detected as a virus becouse it drops decrypted virus at some point which is detected by antiviruses. <br />
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=syrex1013/rexcrypter@github)](https://gitads.dev/v1/ad-track?source=syrex1013/rexcrypter@github)
+
