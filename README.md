@@ -1,3 +1,5 @@
+
+<!-- GitAds-Verify: 7OG27PSKMKO84MVOT145CZ37OG821TV6 -->
 # RexCrypter
 Just a simple file crypter for your viruses,Rat,Trojans and other stuff :D  <br />
 Crypter will drop file.exe. This is crypted virus. After clicking it decrypts itself and drops virus. <br />
